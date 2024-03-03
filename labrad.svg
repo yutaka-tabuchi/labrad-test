@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 460 539" style="enable-background:new 0 0 460 539;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#70AD47;stroke:#2B4719;stroke-width:2.6667;stroke-miterlimit:8;}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'ArialMT';}
+	.st3{font-size:24px;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#4472C4;stroke:#172C51;stroke-width:2.6667;stroke-miterlimit:8;}
+	.st5{fill:none;stroke:#4472C4;stroke-miterlimit:8;}
+	.st6{font-size:15px;}
+	.st7{font-family:'KozGoPr6N-Regular-90ms-RKSJ-H';}
+	.st8{fill:none;stroke:#172C51;stroke-width:0.6667;stroke-miterlimit:8;stroke-dasharray:5.3333,2;}
+	.st9{font-size:16px;}
+</style>
+<path class="st0" d="M57.5,52.6c0-18.2,50.6-33,113-33s113,14.8,113,33c0,18.2-50.6,33-113,33S57.5,70.8,57.5,52.6z"/>
+<text transform="matrix(1 0 0 1 115.171 60.11)" class="st1 st2 st3">Scalabrad</text>
+<path class="st4" d="M207.5,131.4c0-10.9,8.8-19.7,19.7-19.7h100.5c10.9,0,19.7,8.8,19.7,19.7v6.5c0,10.9-8.8,19.7-19.7,19.7H227.2
+	c-10.9,0-19.7-8.8-19.7-19.7V131.4z"/>
+<text transform="matrix(1 0 0 1 251.753 142.11)" class="st1 st2 st3">auth</text>
+<path class="st4" d="M207.5,196.4c0-10.9,8.8-19.7,19.7-19.7h100.5c10.9,0,19.7,8.8,19.7,19.7v6.5c0,10.9-8.8,19.7-19.7,19.7H227.2
+	c-10.9,0-19.7-8.8-19.7-19.7V196.4z"/>
+<text transform="matrix(1 0 0 1 228.419 207.11)" class="st1 st2 st3">manager</text>
+<path class="st4" d="M207.5,260.9c0-10.7,8.6-19.3,19.3-19.3h101.4c10.7,0,19.3,8.6,19.3,19.3v6.4c0,10.7-8.6,19.3-19.3,19.3H226.8
+	c-10.7,0-19.3-8.6-19.3-19.3V260.9z"/>
+<text transform="matrix(1 0 0 1 235.336 271.11)" class="st1 st2 st3">registry</text>
+<path class="st4" d="M207.5,353.4c0-10.9,8.8-19.7,19.7-19.7h135.5c10.9,0,19.7,8.8,19.7,19.7v6.5c0,10.9-8.8,19.7-19.7,19.7H227.2
+	c-10.9,0-19.7-8.8-19.7-19.7V353.4z"/>
+<text transform="matrix(1 0 0 1 227.041 364.11)" class="st1 st2 st3">hello_labra</text>
+<text transform="matrix(1 0 0 1 348.208 364.11)" class="st1 st2 st3">d</text>
+<path class="st5" d="M171,85.6l-1.5,424.6"/>
+<path class="st5" d="M206.9,134.6h-36.4"/>
+<path class="st5" d="M205.9,199.6h-36.4"/>
+<path class="st5" d="M206.9,268.6h-36.4"/>
+<path class="st5" d="M204.9,356.6h-34.4"/>
+<text transform="matrix(1 0 0 1 230.001 302.11)" class="st2 st6">DB</text>
+<text transform="matrix(1 0 0 1 251.001 302.11)" class="st7 st6">は</text>
+<text transform="matrix(1 0 0 1 265.668 302.11)" class="st2 st6">SQLITE</text>
+<path class="st8" d="M431.5,126.6c-10,45.1-20,90.1-40,120.7s-38.6,53.9-80,62.7c-41.4,8.8-119-0.1-168.7-10
+	c-49.7-9.9-89.5-29.6-129.3-49.4"/>
+<text transform="matrix(0.2264 -0.974 0.974 0.2264 399.0762 224.1103)" class="st2 st9">Scala</text>
+<text transform="matrix(0.2264 -0.974 0.974 0.2264 408.2461 184.1103)" class="st7 st9">実装</text>
+<text transform="matrix(0.2264 -0.974 0.974 0.2264 422.4451 240.1103)" class="st2 st9">Python</text>
+<text transform="matrix(0.2264 -0.974 0.974 0.2264 434.1431 189.1103)" class="st7 st9">実装</text>
+<path class="st5" d="M204.9,424.6h-34.4"/>
+<path class="st4" d="M206.5,421.4c0-10.9,8.8-19.7,19.7-19.7h136.5c10.9,0,19.7,8.8,19.7,19.7v6.5c0,10.9-8.8,19.7-19.7,19.7H226.2
+	c-10.9,0-19.7-8.8-19.7-19.7V421.4z"/>
+<text transform="matrix(1 0 0 1 258.063 432.11)" class="st1 st7 st3">電圧源</text>
+<path class="st5" d="M203.9,488.6h-34.4"/>
+<path class="st4" d="M206.5,483.4c0-10.9,8.8-19.7,19.7-19.7h136.5c10.9,0,19.7,8.8,19.7,19.7v6.5c0,10.9-8.8,19.7-19.7,19.7H226.2
+	c-10.9,0-19.7-8.8-19.7-19.7V483.4z"/>
+<text transform="matrix(1 0 0 1 258.063 494.11)" class="st1 st7 st3">計測器</text>
+</svg>

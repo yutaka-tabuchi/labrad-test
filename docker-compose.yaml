@@ -1,0 +1,25 @@
+version: "3"
+
+services:
+
+  scalabrad:
+    container_name: container-scalabrad
+    build:
+      context: ./scalabrad
+      dockerfile: Dockerfile
+    environment:
+      - LABRADHOST=localhost
+      - LABRADPASSWORD=dummy
+    network_mode: "host"
+
+  servers:
+    container_name: container-servers
+    build:
+      context: ./labrad
+      dockerfile: Dockerfile
+    volumes:
+      - "./work:/srv"
+    network_mode: "host"
+    environment:
+      - LABRADHOST=localhost 
+      - LABRADPASSWORD=dummy
