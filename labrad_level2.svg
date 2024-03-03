@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 863.4 793.2" style="enable-background:new 0 0 863.4 793.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#70AD47;stroke:#2B4719;stroke-width:2.6667;stroke-miterlimit:8;}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'ArialMT';}
+	.st3{font-size:24px;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#4472C4;stroke:#172C51;stroke-width:2.6667;stroke-miterlimit:8;}
+	.st5{fill:none;stroke:#4472C4;stroke-miterlimit:8;}
+	.st6{font-size:15px;}
+	.st7{font-family:'KozGoPr6N-Regular-90ms-RKSJ-H';}
+	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#0013A2;stroke:#172C51;stroke-width:2.0192;stroke-miterlimit:8;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#3117FF;stroke-miterlimit:8;}
+	.st10{fill:none;stroke:#3117FF;stroke-miterlimit:8;}
+	.st11{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#3117FF;stroke-width:1.3051;stroke-miterlimit:8;}
+	.st12{font-size:12px;}
+	.st13{fill-rule:evenodd;clip-rule:evenodd;stroke:#3117FF;stroke-miterlimit:8;}
+	.st14{stroke:#3117FF;stroke-miterlimit:8;}
+	.st15{fill-rule:evenodd;clip-rule:evenodd;stroke:#3117FF;stroke-width:0.3894;stroke-miterlimit:8;}
+	.st16{fill-rule:evenodd;clip-rule:evenodd;stroke:#3117FF;stroke-width:1.4014;stroke-miterlimit:8;}
+	.st17{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st18{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<path class="st0" d="M57.5,52.6c0-18.2,50.6-33,113-33s113,14.8,113,33s-50.6,33-113,33S57.5,70.8,57.5,52.6z"/>
+<text transform="matrix(1 0 0 1 115.171 60.11)" class="st1 st2 st3">Scalabrad</text>
+<path class="st4" d="M207.5,121.6c0-10.7,8.6-19.3,19.3-19.3h101.4c10.7,0,19.3,8.6,19.3,19.3v6.4c0,10.7-8.6,19.3-19.3,19.3H226.8
+	c-10.7,0-19.3-8.6-19.3-19.3V121.6z"/>
+<text transform="matrix(1 0 0 1 235.336 131.8572)" class="st1 st2 st3">registry</text>
+<path class="st4" d="M208.5,583.2c0-10.9,8.8-19.7,19.7-19.7h135.5c10.9,0,19.7,8.8,19.7,19.7v6.5c0,10.9-8.8,19.7-19.7,19.7H228.2
+	c-10.9,0-19.7-8.8-19.7-19.7V583.2z"/>
+<text transform="matrix(1 0 0 1 228.091 593.9451)" class="st1 st2 st3">hello_labrad</text>
+<path class="st5" d="M169.5,85.7v593.6"/>
+<path class="st5" d="M206.9,124.8h-36.4"/>
+<path class="st5" d="M205.9,586.4h-34.4"/>
+<text transform="matrix(1 0 0 1 230.001 162.8572)" class="st2 st6">DB</text>
+<text transform="matrix(1 0 0 1 251.001 162.8572)" class="st7 st6">は</text>
+<text transform="matrix(1 0 0 1 265.668 162.8572)" class="st2 st6">SQLITE</text>
+<text transform="matrix(1 0 0 1 554.545 299.4639)" class="st2 st6">channel 0</text>
+<text transform="matrix(4.489659e-11 -1 1 4.489659e-11 584.0547 322.2354)" class="st2 st6">...</text>
+<path class="st5" d="M431.6,187.6h-260"/>
+<path class="st4" d="M431.6,184.4c0-10.9,8.8-19.7,19.7-19.7h136.5c10.9,0,19.7,8.8,19.7,19.7v6.5c0,10.9-8.8,19.7-19.7,19.7H451.3
+	c-10.9,0-19.7-8.8-19.7-19.7V184.4z"/>
+<text transform="matrix(1 0 0 1 483.1691 195.0671)" class="st1 st7 st3">電圧源</text>
+<path class="st5" d="M203.9,359.2h-34.4"/>
+<path class="st4" d="M206.5,354c0-10.9,8.8-19.7,19.7-19.7h136.5c10.9,0,19.7,8.8,19.7,19.7v6.5c0,10.9-8.8,19.7-19.7,19.7H226.2
+	c-10.9,0-19.7-8.8-19.7-19.7V354z"/>
+<text transform="matrix(1 0 0 1 258.063 364.6968)" class="st1 st7 st3">計測器</text>
+<polygon class="st8" points="418.2,398.1 268.9,398.1 255.5,421.3 268.9,444.4 418.2,444.4 431.6,421.3 "/>
+<polygon class="st8" points="418.2,454.7 268.9,454.7 255.5,477.8 268.9,501 418.2,501 431.6,477.8 "/>
+<line class="st9" x1="241.1" y1="380.2" x2="241.1" y2="477.8"/>
+<path class="st10" d="M255.5,421.3h-14.4"/>
+<path class="st10" d="M255.5,477.8h-14.4"/>
+<text transform="matrix(1 0 0 1 288.7176 430.3959)" class="st1 st7 st3">Anrits... 製</text>
+<polygon class="st8" points="534.1,618.2 384.7,618.2 371.3,641.4 384.7,664.5 534.1,664.5 547.4,641.4 "/>
+<text transform="matrix(1 0 0 1 404.5537 650.4964)" class="st1 st7 st3">hoge社</text>
+<polygon class="st8" points="534.1,687.8 384.7,687.8 371.3,711 384.7,734.2 534.1,734.2 547.4,711 "/>
+<text transform="matrix(1 0 0 1 404.5537 720.1227)" class="st1 st7 st3">fufufu社</text>
+<text transform="matrix(1 0 0 1 280.6709 486.9674)" class="st1 st7 st3">Keysigh.. 製</text>
+<polygon class="st8" points="667.3,228.5 517.9,228.5 504.5,251.6 517.9,274.8 667.3,274.8 680.6,251.6 "/>
+<polygon class="st8" points="667.3,369.7 517.9,369.7 504.5,392.8 517.9,416 667.3,416 680.6,392.8 "/>
+<line class="st11" x1="490.1" y1="210.6" x2="490.1" y2="521"/>
+<path class="st10" d="M504.5,251.6h-14.4"/>
+<path class="st10" d="M504.5,392.8h-14.4"/>
+<text transform="matrix(1 0 0 1 537.7461 260.7662)" class="st1 st7 st3">NF... 製</text>
+<text transform="matrix(1 0 0 1 526.1499 401.9447)" class="st1 st7 st3">Yokogaw.. 製</text>
+<text transform="matrix(1 0 0 1 42.9305 324.3458)"><tspan x="0" y="0" class="st7 st12">ユーザからみると</tspan><tspan x="-6" y="14.4" class="st7 st12">装置の細かい違いは</tspan><tspan x="-12" y="28.8" class="st7 st12">どうでもよく、綺麗な</tspan><tspan x="-6" y="43.2" class="st7 st12">コードを書くために</tspan><tspan x="0" y="57.6" class="st7 st12">インタフェースを</tspan><tspan x="12" y="72" class="st7 st12">共通したい。</tspan></text>
+<text transform="matrix(1 0 0 1 693.3739 285.7065)"><tspan x="0" y="0" class="st7 st12">チャンネル数の異なる</tspan><tspan x="0" y="14.4" class="st7 st12">異なる会社の電源源を</tspan><tspan x="24" y="28.8" class="st7 st12">複数扱う場合</tspan></text>
+<line class="st13" x1="532.6" y1="273.6" x2="532.6" y2="343.6"/>
+<path class="st14" d="M547,296.5h-14.4"/>
+<text transform="matrix(1 0 0 1 554.545 431.1299)" class="st2 st6">channel 0</text>
+<line class="st15" x1="532.6" y1="417.5" x2="532.6" y2="428.1"/>
+<path class="st14" d="M547,428.1h-14.4"/>
+<polygon class="st8" points="667.3,440.3 517.9,440.3 504.5,463.5 517.9,486.6 667.3,486.6 680.6,463.5 "/>
+<path class="st10" d="M504.5,463.5h-14.4"/>
+<text transform="matrix(1 0 0 1 526.1499 472.5891)" class="st1 st7 st3">Yokogaw.. 製</text>
+<text transform="matrix(1 0 0 1 554.545 501.7743)" class="st2 st6">channel 0</text>
+<line class="st15" x1="532.6" y1="488.2" x2="532.6" y2="498.8"/>
+<path class="st14" d="M547,498.8h-14.4"/>
+<text transform="matrix(1 0 0 1 554.545 345.0683)" class="st2 st6">channel 16</text>
+<path class="st14" d="M547,342.1h-14.4"/>
+<text transform="matrix(1 0 0 1 699.7794 351.0212)"><tspan x="0" y="0" class="st7 st12">またはQuE...社のように</tspan><tspan x="-21" y="14.4" class="st7 st12">チャンネル数の異なるタイプの</tspan><tspan x="-3" y="28.8" class="st7 st12">筐体を複数取り扱う場合</tspan></text>
+<text transform="matrix(1 0 0 1 262.5903 635.3356)" class="st2 st6">channel 1</text>
+<line class="st16" x1="240.6" y1="609.4" x2="240.6" y2="746.9"/>
+<path class="st14" d="M255,632.4h-14.4"/>
+<text transform="matrix(1 0 0 1 262.5903 658.2528)" class="st2 st6">channel 2</text>
+<path class="st14" d="M255,655.3h-14.4"/>
+<text transform="matrix(1 0 0 1 262.5903 681.1702)" class="st2 st6">channel 3</text>
+<path class="st14" d="M255,678.2h-14.4"/>
+<text transform="matrix(1 0 0 1 262.5903 704.0875)" class="st2 st6">channel 4</text>
+<path class="st14" d="M255,701.1h-14.4"/>
+<text transform="matrix(1 0 0 1 262.5903 727.0048)" class="st2 st6">channel 5</text>
+<path class="st14" d="M255,724h-14.4"/>
+<text transform="matrix(1 0 0 1 262.5903 749.9221)" class="st2 st6">channel 6</text>
+<path class="st14" d="M255,746.9h-14.4"/>
+<polyline class="st17" points="332.3,630.2 365.6,641.4 332.3,652.5 "/>
+<polyline class="st18" points="332.3,677.3 366.4,711 332.3,744.7 "/>
+<polyline class="st18" points="332.3,700.2 366.4,711 332.3,721.8 "/>
+</svg>
